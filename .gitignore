@@ -1,0 +1,15 @@
+.env
+.venv/
+env/
+venv/
+pipeline_output/
+100B_output/
+bharat_results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.log
+docs/assets/*.jpeg
+docs/assets/*.jpg
+docs/assets/*.png

@@ -1,0 +1,14 @@
+# Bharat-LLM 100B Requirements
+# Install for TPU Training (Google Colab Recommended)
+torch>=2.2.0
+torch_xla[tpu]>=2.2.0 -f https://storage.googleapis.com/tpu-pytorch/wheels/tpuvm/torch_xla-2.2.0-cp310-cp310-linux_x86_64.whl
+transformers>=4.40.0
+accelerate>=0.29.0
+peft>=0.10.0
+datasets>=2.18.0
+bitsandbytes>=0.43.0 # Fallback for local testing
+sentencepiece
+tiktoken
+python-dotenv
+tqdm
+loguru
