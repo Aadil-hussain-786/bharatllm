@@ -1,4 +1,4 @@
-# 🌌 Bharat-LLM: The 100 Billion Parameter Sovereign Model
+#  Bharat-LLM: The 100 Billion Parameter Sovereign Model
 
 <p align="center">
     <img src="docs/assets/Bharat_Labs_professional_202604191607.jpeg" width="600" alt="Bharat Labs Infrastructure">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🏗️ Architecture Visualization
+##  Architecture Visualization
 
 Bharat-LLM utilizes an **Up-Cycled MoE** strategy, taking the world-class foundation of dense models and expanding their neural capacity into a sparse giant.
 
@@ -44,7 +44,7 @@ Bharat-LLM utilizes an **Up-Cycled MoE** strategy, taking the world-class founda
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Requirements
 Ensure you have access to a TPU runtime (Google Colab Recommended).
@@ -64,7 +64,7 @@ python scripts/build_100b_bharat.py
 
 ---
 
-## 💬 Conversational Experience
+##  Conversational Experience
 
 Bharat-LLM is optimized for complex reasoning, coding support, and seamless Indic chat experiences.
 
@@ -74,7 +74,7 @@ Bharat-LLM is optimized for complex reasoning, coding support, and seamless Indi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 bharat_llm/
@@ -90,7 +90,7 @@ bharat_llm/
 
 ---
 
-## 🛡️ License & Disclaimer
+##  License & Disclaimer
 Bharat-LLM is released under the **Apache 2.0 License**. It is designed for research and production-grade applications with a focus on Indian ethical guidelines and data sovereignty.
 
 ---
