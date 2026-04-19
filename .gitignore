@@ -6,10 +6,50 @@ pipeline_output/
 100B_output/
 bharat_results/
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
 .ipynb_checkpoints/
 .DS_Store
 *.log
 docs/assets/*.jpeg
 docs/assets/*.jpg
 docs/assets/*.png
+Thumbs.db
+
+# Data
+data/
+*.tfrecord
+*.jsonl
+*.parquet
+
+# Checkpoints
+checkpoints/
+*.ckpt
+*.pkl
+*.msgpack
+
+# Model weights
+*.safetensors
+*.bin
+
+# Tokenizer artifacts
+tokenizer/*.model
+tokenizer/*.vocab
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env.local
+
+# Logs
+logs/
+wandb/
