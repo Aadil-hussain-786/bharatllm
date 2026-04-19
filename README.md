@@ -4,7 +4,7 @@
 
 ---
 
-## 🏗️ 1. Bharat-LLM: 100B Parameter Sovereign Model
+## 1. Bharat-LLM: 100B Parameter Sovereign Model
 
 **Bharat-LLM** is a frontier-scale, **100 Billion Parameter** Large Language Model specifically engineered for the linguistic diversity, cultural nuances, and computational requirements of the Indian subcontinent.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 2. Bharat-3B Smart-Core
+## 2. Bharat-3B Smart-Core
 
 **A revolutionary 3B parameter language model with Deep Equilibrium Layers, Recurrent Memory, and Mixture of Softmaxes — optimized for efficiency.**
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Project Structure
+##  Project Structure
 
 ```text
 bharat_llm/
@@ -58,7 +58,7 @@ bharat_llm/
 └── requirements.txt    # Unified Dependencies
 ```
 
-## 📝 License
+##  License
 Bharat-LLM is released under the **Apache 2.0 License** and includes **Proprietary Patent Pending (DPIIT Startup India)** components for the Smart-Core architecture.
 
 ---
