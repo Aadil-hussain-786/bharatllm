@@ -24,7 +24,7 @@
 *   **Elite Knowledge Distillation**: Directly trained using high-intelligence "Teachers" via the Groq LPU infrastructure to match global reasoning standards.
 
 <p align="center">
-  <img src="docs/assets/Bharat_Labs_professional_202604191607.jpeg" width="600" alt="Bharat Labs Infrastructure">
+  <img src="docs/assets/Bharat_LLM_features_202604191700.jpeg" width="600" alt="Bharat Labs Infrastructure">
 </p>
 
 ---
