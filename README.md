@@ -1,7 +1,7 @@
 # 🌌 Bharat-LLM: The 100 Billion Parameter Sovereign Model
 
 <p align="center">
-  <img src="docs/assets/bharat_llm_premium_minimalist_1776593973340.jpg" width="800" alt="Bharat-LLM Premium Visualization">
+    <img src="docs/assets/Bharat_Labs_professional_202604191607.jpeg" width="600" alt="Bharat Labs Infrastructure">
 </p>
 
 ---
